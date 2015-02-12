@@ -14,3 +14,5 @@ hello github
     - GRADLE_HOME，同时把bin放入path变量
 -- 啦啦
     - 等等看看打开
+
+> 只要再文字前面加上>空格即可  
