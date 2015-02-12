@@ -12,7 +12,6 @@ hello github
 - 环境变量
     - ANDROID_HOME
     - GRADLE_HOME，同时把bin放入path变量
-    - 
 -- 哈哈哈
 -啦啦
     -等等看看打开
