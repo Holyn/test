@@ -31,7 +31,7 @@ Thank `You` . `Please Call Me Coder`
     - Gradle
 - 环境变量
     - ANDROID_HOME
-    - GRADLE_HOME，同时把bin放入path变量
+    - GRADLE_HOME，`同时把bin放入path变量`
 -- 啦啦
     - 等等看看打开
 
