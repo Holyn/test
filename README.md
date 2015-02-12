@@ -8,7 +8,7 @@ hello github
 <img width="30%" height="30%" src="https://lh5.ggpht.com/liao4yraseucSncbq9ZOAspCb7xZZ-E7iHsSv3OBGbFwLi6pSys8G4jap132pUmuYQ=h900-rw"/>
 
 =====
-
+``` java
     public boolean onCreateOptionsMenu(Menu menu) {
         if (!mNavigationDrawerFragment.isDrawerOpen()) {
             // Only show items in the action bar relevant to this screen
@@ -20,7 +20,7 @@ hello github
         }
         return super.onCreateOptionsMenu(menu);
     }
-
+```
 
 
 - 版本
