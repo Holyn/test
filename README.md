@@ -19,4 +19,4 @@ hello github
 
 > 只要再文字前面加上>空格即可  
 
-![baidu](http://www.baidu.com/img/bdlogo.gif)  
+[baidu](http://www.baidu.com/img/bdlogo.gif)  
